@@ -1,0 +1,25 @@
+
+<item>
+<title>[B]O Esquadrão Suicida[/B]</title>
+<link>https://topflix.vc/filmes/assistir-online-o-esquadrao-suicida/$nome= Dublado</link>
+<link>https://topflix.vc/filmes/assistir-online-o-esquadrao-suicida/$nome= Legendado</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/21/06/22/22/19/1495362.jpg</thumbnail>
+<fanart>https://static.wixstatic.com/media/8c7574_32d77f54482b4201abdad8de385c569d~mv2.jpg/v1/fill/w_1000,h_917,al_c,q_90,usm_0.66_1.00_0.01/8c7574_32d77f54482b4201abdad8de385c569d~mv2.jpg</fanart>
+<info>O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.</info>
+<genre>Ação,Aventura</genre>
+<year>2021</year>
+</item>
+
+
+
+______________________________________________________________________________________________________
+$nome= Texto --> é para por multiplos links no mesmo filme
+______________________________________________________________________________________________________
+Para arquivos torrent funciona assim no <link>
+
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+
+Exemplo:
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d4555966805adfff7ac527823a3a08471aa25358f5</link>

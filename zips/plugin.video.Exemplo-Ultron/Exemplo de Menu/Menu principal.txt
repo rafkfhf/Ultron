@@ -1,0 +1,33 @@
+<channels>
+
+<channel>
+<name>[B][COLOR white]TV[/COLOR][/B]</name>
+<thumbnail>https://img.flaticon.com/icons/png/512/686/686468.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>https://cdn.desapega.net/pictures/95/ed57dbace34ab1b7ed39ca170cc7384fba8cfce0c696e242a8d063dabf9fd8.jpg</fanart>
+<info>Canais de Tv</info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<thumbnail>https://4.bp.blogspot.com/-dmOm-EkBhUQ/V3E7i8lckXI/AAAAAAAAAx8/hCLXnMLxQ6gFWtakfT4qYKFB1OIGP3F_QCLcB/s1600/filmes.png</thumbnail>
+<externallink>https://pastebin.com/raw/gXqtLejD</externallink>
+<fanart>https://files.nsctotal.com.br/s3fs-public/styles/paragraph_image_style/public/graphql-upload-files/Filmes%20de%20Comedia%20Netflix_1.jpg?k727T3huiXMprTOcrnJFm.4P5ZMDQvBI&itok=twKW8SG4</fanart>
+<info>Filmes</info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
+<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/54fbf860-1d0d-46e7-a22a-74edb3053c67/d6qj64q-f30328aa-5b8c-4ec4-979a-dea8d78c5498.png</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>https://osurtododia.com.br/wp-content/uploads/2020/07/17-series-adolescentes-para-voce-maratonar.png</fanart>
+<info>SERIES</info>
+</channel>
+
+</channels>
+
+
+
+
+
+ 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ultron Repo" name="repository.ultron Repo" version="1.0" provider-name="rafkfhf">
+    <extension point="xbmc.addon.repository" name="Nome Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/rafkfhf/Ultron/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com//master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/rafkfhf/Ultron/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>REPO do ultron</summary>
+        <description>addons do Ultron</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
